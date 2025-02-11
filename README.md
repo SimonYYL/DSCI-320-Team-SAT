@@ -1,4 +1,4 @@
-# DSCI-320-Data-Diddy
+# DSCI-320-Team-SAT
 
 Group Name: Team - SAT (TBD)
 
